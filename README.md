@@ -1,2 +1,2 @@
 # delta-Demo
-learning git concept
+learning git concept.
